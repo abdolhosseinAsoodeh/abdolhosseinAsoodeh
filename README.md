@@ -1,6 +1,6 @@
 <!-- HEADER ANIMATION - DARK THEME WITH BLACK NAME -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4,6&height=200&section=header&text=Abdolhossein%20Asudeh&fontSize=42&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=PHP%20Developer%20|%206+%20Years%20Experience&descSize=16&descAlignY=55&bg_color=0d1117" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4,6&height=200&section=header&text=Abdolhossein%20Asoodeh&fontSize=42&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=PHP%20Developer%20|%206+%20Years%20Experience&descSize=16&descAlignY=55&bg_color=0d1117" />
 </div>
 
 <br/>
