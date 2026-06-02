@@ -1,6 +1,6 @@
-<!-- HEADER ANIMATION - DARK THEME -->
+<!-- HEADER ANIMATION - DARK THEME WITH BLACK NAME -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4,6&height=200&section=header&text=Abdolhossein%20Asudeh&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=PHP%20Developer%20|%206+%20Years%20Experience&descSize=16&descAlignY=55&bg_color=0d1117" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4,6&height=200&section=header&text=Abdolhossein%20Asudeh&fontSize=42&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=PHP%20Developer%20|%206+%20Years%20Experience&descSize=16&descAlignY=55&bg_color=0d1117" />
 </div>
 
 <br/>
@@ -78,24 +78,15 @@
   ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=1f1f1f)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1f1f1f)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1f1f1f)
-<!--  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1f1f1f) -->
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1f1f1f)
-<!--  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1f1f1f) -->
   
 </div>
 
 <br/>
 
-<!-- GITHUB STATS - DARK THEME -->
+<!-- GITHUB STATS TITLE -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=C084FC&center=true&vCenter=true&width=435&lines=%F0%9F%93%8A+GitHub+Stats+%F0%9F%93%8A" alt="GitHub Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdolhosseinAsoodeh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&border_color=30363d"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdolhosseinAsoodeh&layout=compact&langs_count=8&theme=tokyonight&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&border_color=30363d"/>
 </div>
 
 <br/>
