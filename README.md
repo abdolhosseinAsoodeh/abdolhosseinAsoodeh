@@ -17,7 +17,7 @@
 <!-- SOCIAL BADGES - DARK GLASS EFFECT -->
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1f1f1f)](https://linkedin.com/in/abdolhossein.asudeh)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1f1f1f)](https://linkedin.com/in/abdolhossein-asoodeh)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1f1f1f)](https://instagram.com/asoodeh.code)
   [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1f1f1f)](https://t.me/aoqpz)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f1f1f)](mailto:a.asoodeh.86@gmail.com)
