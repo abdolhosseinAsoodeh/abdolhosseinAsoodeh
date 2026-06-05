@@ -39,6 +39,7 @@
 <br/>
 
 <!-- ABOUT ME - DARK THEME -->
+<!--
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=C084FC&center=true&vCenter=true&width=435&lines=%F0%9F%92%AB+About+Me+%F0%9F%92%AB" alt="About Me" />
 </div>
@@ -46,7 +47,6 @@
 <br/>
 
 <div align="center">
-  <!-- محتوای بخش About Me با تم دارک -->
   <table>
     <tr>
       <td>
@@ -63,6 +63,7 @@
 </div>
 
 <br/>
+-->
 
 <!-- TECH STACK - DARK THEME -->
 <div align="center">
@@ -85,18 +86,22 @@
 <br/>
 
 <!-- GITHUB STATS TITLE -->
+<!--
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=C084FC&center=true&vCenter=true&width=435&lines=%F0%9F%93%8A+GitHub+Stats+%F0%9F%93%8A" alt="GitHub Stats" />
 </div>
 
 <br/>
+-->
 
 <!-- ACTIVITY GRAPH - DARK THEME -->
+<!--
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdolhosseinAsoodeh&theme=react-dark&bg_color=0d1117&color=a855f7&line=a855f7&point=c084fc&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 <br/>
+-->
 
 <!-- FOOTER -->
 <div align="center">
